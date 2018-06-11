@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pappaya Controller</string>
+    <string name="teacher">Pappaya Controller</string>
+
+    <string name="returned_from_app_settings_to_activity">
+        Returned from app settings to MainActivity with the following permissions:
+        \n\Read : %s
+        \nWrite
+</string>
+    <string name="camera_and_location_rationale">This app needs access to your read and write to get vrvideo to play</string>
+</resources>
